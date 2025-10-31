@@ -7,7 +7,6 @@ I’m passionate about **AI Agents**, **cloud automation**, and **building intel
 ---
 
 ## 🧠 About Me  
-- 🌍 Based in **Addis Ababa, Ethiopia**  
 - 💼 6+ years of hands-on experience in **Full-Stack Development & Cloud Architecture**  
 - 🧩 Skilled in **React.js**, **Next.js**, **Node.js**, **FastAPI**, **GraphQL**, **AWS**, and **Docker**  
 - 🤖 Experienced in building **Agentic RAG pipelines**, **LLM-integrated AI systems**, and **vector database architectures**  
@@ -34,25 +33,6 @@ AWS (EC2, ECS, ECR, CodeDeploy, Cognito, Amplify, CloudFront) • Docker • Git
 **AI & Automation:**  
 LangChain • OpenAI API • Agentic RAG • Autonomous Agents • Vector Search  
 
----
-
-## 🧩 Featured Projects
-
-🔹 **Finaloop AI** – AI-driven B2B Sales Finder & Event Intelligence Platform  
-Tech: React, FastAPI, MongoDB, Redis, AWS ECS  
-→ Reduced API latency from **250ms → 80ms** via async I/O & caching  
-
-🔹 **Forward Logistics** – AI-powered shipment & driver matching system  
-Tech: Next.js, Node.js, AWS Amplify, Cognito, CloudFront  
-→ Improved operational efficiency by **70%**  
-
-🔹 **Matrix360 ERP** – Modular ERP platform for multi-tenant enterprises  
-Tech: Node.js, GraphQL, MySQL, AWS EC2  
-→ 99.9% uptime with load-balanced EC2 clusters  
-
-🔹 **Lela Hub** – E-learning SaaS with scalable media delivery  
-Tech: Next.js, AWS Amplify, S3, CloudFront  
-→ Boosted TTFB by **60%** via SSR optimization  
 
 ---
 
@@ -66,8 +46,8 @@ Tech: Next.js, AWS Amplify, S3, CloudFront
 ---
 
 ## 📫 Connect with Me  
-🌐 **Portfolio:** [ifnetdigitalhub.vercel.app](https://ifnetdigitalhub.vercel.app)  
-💻 **GitHub:** [github.com/yerosen](https://github.com/yerosen)  
+🌐 **Portfolio:** [yerosen-diriba.vercel.app](https://yerosen-diriba.vercel.app)  
+💻 **GitHub:** [github.com/cher-yeros](https://github.com/cher-yeros)  
 🔗 **LinkedIn:** [linkedin.com/in/yerosen-diriba](https://linkedin.com/in/yerosen-diriba)  
 📧 **Email:** yerosendiriba1@gmail.com  
 
