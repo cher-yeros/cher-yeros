@@ -11,7 +11,6 @@ I’m passionate about **AI Agents**, **cloud automation**, and **building intel
 - 🧩 Skilled in **React.js**, **Next.js**, **Node.js**, **FastAPI**, **GraphQL**, **AWS**, and **Docker**  
 - 🤖 Experienced in building **Agentic RAG pipelines**, **LLM-integrated AI systems**, and **vector database architectures**  
 - ☁️ Passionate about **scalable DevOps**, **microservices**, and **performance optimization**  
-- 🔭 Currently building: **Smart Matching Engines for event intelligence (Finaloop AI)**  
 - 🌱 Always learning more about **autonomous agents**, **serverless design**, and **system observability**  
 
 ---
